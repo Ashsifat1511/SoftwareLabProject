@@ -20,6 +20,7 @@ import java.util.ResourceBundle;
 
 /**
  * Controller class for managing the dashboard of the application.
+ * Designed by Swapnil 
  */
 public class DashboardController implements Initializable{
     @FXML
