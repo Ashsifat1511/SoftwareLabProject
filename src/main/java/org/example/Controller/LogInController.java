@@ -23,6 +23,7 @@ import java.util.ResourceBundle;
 
 /**
  * Controller class for the login functionality.
+ * Designed by Tithi
  */
 public class LogInController implements Initializable{
     @FXML
