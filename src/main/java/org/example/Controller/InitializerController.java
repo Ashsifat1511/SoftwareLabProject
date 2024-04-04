@@ -23,6 +23,7 @@ import java.util.TreeMap;
 
 /**
  * Controller class for initializing the application.
+ * Designed by Tithi
  */
 public class InitializerController implements Initializable {
 
