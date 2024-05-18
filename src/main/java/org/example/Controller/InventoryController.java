@@ -31,6 +31,7 @@ import java.util.ResourceBundle;
 import java.util.TreeMap;
 /**
  * Controller class for managing inventory-related operations.
+ * Desinged by Sifat
  */
 
 public class InventoryController implements Initializable{

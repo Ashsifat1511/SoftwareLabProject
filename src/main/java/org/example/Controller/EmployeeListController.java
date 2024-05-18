@@ -25,6 +25,7 @@ import java.util.ResourceBundle;
 
 /**
  * Controller class for managing the employee list.
+ * Desinged by Sifat
  */
 public class EmployeeListController implements Initializable {
     @FXML

@@ -36,6 +36,7 @@ import java.net.ProtocolException;
 
 /**
  * Controller class for managing administrator functionalities in a JavaFX application.
+ * Desinged by Sifat
  */
 public class AdministratorController implements Initializable {
     @FXML
