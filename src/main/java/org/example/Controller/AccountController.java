@@ -1,11 +1,5 @@
 package org.example.Controller;
 
-public class AccountController {
-    
-}
-
-
-package org.example.Controller;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXSnackbar;
